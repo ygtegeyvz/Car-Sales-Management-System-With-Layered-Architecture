@@ -1,0 +1,14 @@
+D:\Projeler\Klasor\BurdanGazla\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Projeler\Klasor\BurdanGazla\DataAccess\bin\Debug\DataAccess.dll
+D:\Projeler\Klasor\BurdanGazla\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projeler\Klasor\BurdanGazla\DataAccess\bin\Debug\Entities.dll
+D:\Projeler\Klasor\BurdanGazla\DataAccess\bin\Debug\EntityFramework.dll
+D:\Projeler\Klasor\BurdanGazla\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\Klasor\BurdanGazla\DataAccess\bin\Debug\Entities.pdb
+D:\Projeler\Klasor\BurdanGazla\DataAccess\bin\Debug\EntityFramework.xml
+D:\Projeler\Klasor\BurdanGazla\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\Klasor\BurdanGazla\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Projeler\Klasor\BurdanGazla\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projeler\Klasor\BurdanGazla\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Projeler\Klasor\BurdanGazla\DataAccess\obj\Debug\DataAccess.dll
+D:\Projeler\Klasor\BurdanGazla\DataAccess\obj\Debug\DataAccess.pdb
